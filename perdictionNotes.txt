@@ -1,0 +1,6 @@
+y hat - y
+residuals
+
+y hat - y vs data should see no patern
+
+must plot data

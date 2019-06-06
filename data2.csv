@@ -1,0 +1,29 @@
+element,protons,nuetrons,electrons,Proton & Electectron Configuration as a Number,nuetron Configuration as a Number,periodic column,periodic row,Proton & Electectron Configuration,nuetron Configuration as a Number2,half-life 
+hydrogen,1,0,1,1,1,1,1,s1,0,1.43E+17
+helium,2,2,2,2,2,18,1,s2,s2,1.43E+17
+Lithium,3,4,3,12,11,1,2,[He]s1,[He]s2,1.43E+17
+Beryllium,4,5,4,121,12,2,2,[He]s2,[He]s2p1,1.43E+17
+boron,5,6,5,122,121,13,2,[He]s2p1,[He]s2p2,1.43E+17
+carbon,6,6,6,222,222,14,2,[He]s2p2,[He]s2p2,1.43E+17
+nitrogen,7,7,7,223,223,15,2,[He]s2p3,[He]s2p3,1.43E+17
+oxygen,8,8,8,224,224,16,2,[He]s2p4,[He]s2p4,1.43E+17
+flourine,9,10,9,226,225,17,2,[He]s2p5,[He]s2p6,1.43E+17
+Rubiduim,37,48,37,4210,41,1,5,[Kr]s1,[Kr] 5s2 4d10,48400000000
+moscovium,115,174,115,6.21E+15,6214103,15,7,[Rn] 7s2 5f14 6d10 7p3,[Rn] 7s2 5f14 6d10 7p3 8s2  5g18 6f14 7d10 8p6 6g2,0.22
+einsteinium,99,153,99,6.21E+11,6211,14,7,[Rn] 7s2 5f11,[Rn] 7s2 5f14 6d10 7p3 8s2  5g18 6f11,40754880
+tantalum,73,108,73,62146,62143,5,6,[Xe] 6s2 4f14 5d3,[Rn] 7s2 5f14 6d6,1.43E+17
+manganese,25,30,25,3210,325,7,4,[Ar] 4s2 3d5,[Ar] 4s2 3d10,1.43E+17
+tennessine,117,175,117,6.21E+15,6214105,17,7,[Rn] 7s2 5f14 6d10 7p5,[Rn] 7s2 5f14 6d10 7p3 8s2  5g18 6f14 7d10 8p6 6g3,0.8
+radon,86,136,86,6214103212,6214106,18,6,[Xe] 6s2 4f14 5d10 6p6,[Rn] 7s2 5f14 6d10 7p3 8s2  5g12,330350.4
+Krypton,36,48,36,4210,42106,18,3,[Ar] 4s2 3d10 4p6,[Kr] 5s2 4d10,1.43E+17
+zinc,30,35,30,42105,4210,12,4,[Ar] 4s2 3d10,[Ar] 4s2 3d10 4p5,1.43E+17
+copernicum,112,173,112,6.21E+15,621410,12,7,[Rn] 7s2 5f14 6d10,[Rn] 7s2 5f14 6d10 7p3 8s2  5g18 6f14 7d10 8p6 6g1,30
+Darmstadtium,110,171,110,6.21E+13,62148,10,7,[Rn] 7s2 5f14 6d8,[Rn] 7s2 5f14 6d10 7p3 8s2  5g18 6f14 7d10 8p5,14
+Carbon,6,6,6,122,122,14,2,[He] 2s2 2p2,[He] 2s2 2p2,1.43E+17
+silicon,14,14,14,222,222,14,3,[Ne] 3s2 3p2,[Ne] 3s2 3p2,1.43E+17
+bismuth,83,126,83,52146,214103,15,6,[Xe] 6s2 4f14 5d10 6p3,[Xe] 6s2 4f14 5d6,1.43E+17
+rhenium,75,111,75,62149,52145,7,6,[Xe] 6s2 4f14 5d5,[Rn] 7s2 5f14 6d9,41200000000
+Sodium,11,22,11,322,21,1,3,[Ne] 3s1,[Ar] 4s2 3d2,1.43E+17
+oganesson,118,176,118,6.21E+15,6214106,18,7,[Rn] 7s2 5f14 6d10 7p6,[Rn] 7s2 5f14 6d10 7p3 8s2  5g18 6f14 7d10 8p6 6g4,0.008
+chromium,24,28,24,328,324,6,4,[Ar] 4s2 3d4,[Ar] 4s2 3d8,1.43E+17
+cadmium,48,66,48,5210,5210,12,5,[Kr] 5s2 4d10,[Xe] 6s2 4f10,1.43E+17

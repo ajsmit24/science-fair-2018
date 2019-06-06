@@ -1,0 +1,18 @@
+2, 8, 20, 28, 50, 82, and 126
+
+114, 122, 124, and 164
+
+ 184, 196, 236, and 318
+
+
+
+
+184, 258, 350, and 462
+
+Generation 1 - Current best internal CV score: 0.630546064119      
+Generation 2 - Current best internal CV score: 0.635219759089       
+Generation 3 - Current best internal CV score: 0.654130075741         
+Generation 4 - Current best internal CV score: 0.654130075741       
+Generation 5 - Current best internal CV score: 0.654130075741       
+                                                                    
+Best pipeline: LinearSVC(ZeroCount(input_matrix),0.51000000000000001, 15, False)
